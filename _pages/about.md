@@ -43,7 +43,31 @@ Chenglizhao Chen; Guangxiao Ma; Wenfeng Song; **Shuai Li**; Aimin Hao; Hong Qin
 <div class='paper-box-text' markdown="1">
 
 [AttriDiffuser: Adversarially enhanced diffusion model for text-to-facial attribute image synthesis](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4965105)
-Wenfeng Song; Zhongyong Ye; Meng Sun; Xia Hou; **Shuai Li**; Aimin Hao;
+Wenfeng Song; Zhongyong Ye; Meng Sun; Xia Hou; **Shuai Li**; Aimin Hao
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Arbitrary_Motion_Style_Transfer_with_Multi-condition_Motion_Latent_Diffusion_Model_CVPR_2024_paper.pdf)
+Wenfeng Song, Xingliang Jin, **Shuai Li**, Chenglizhao Chen, Aimin Hao, Xia Hou, Ning Li, Hong Qin
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_HOIAnimator_Generating_Text-prompt_Human-object_Animations_using_Novel_Perceptive_Diffusion_Models_CVPR_2024_paper.pdf)
+Wenfeng Song; Xinyu Zhang; **Shuai Li**; Yang Gao; Aimin Hao; Xia Hou; Chenglizhao Chen; Ning Li; Hong Qin
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatic Generation of 3D Scene Animation Based on Dynamic Knowledge Graphs and Contextual Encoding](https://link.springer.com/article/10.1007/s11263-023-01839-1)
+Wenfeng Song; Xinyu Zhang; Yuting Guo; **Shuai Li**; Aimin Hao; Hong Qin;
 </div>
 </div>
 
