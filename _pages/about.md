@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/af141b79-3835-43d0-946d-d1333ede5381)---
 permalink: /
 title: ""
 excerpt: ""
@@ -31,12 +31,11 @@ Dr. Shuai Li, Doctor of Engineering, professor, doctoral tutor, national high-le
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Saliency-Free and Aesthetic-Aware Panoramic Video Navigation](http://probb268dca.pic5.ysjianzhan.cn/upload/TPAMI24-MGX.pdf)
+Chenglizhao Chen; Guangxiao Ma; Wenfeng Song; **Shuai Li**; Aimin Hao; Hong Qin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
