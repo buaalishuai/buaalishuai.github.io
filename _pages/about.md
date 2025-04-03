@@ -36,11 +36,17 @@ Dr. Shuai Li, Doctor of Engineering, professor, doctoral tutor, national high-le
 
 [Saliency-Free and Aesthetic-Aware Panoramic Video Navigation](http://probb268dca.pic5.ysjianzhan.cn/upload/TPAMI24-MGX.pdf)
 Chenglizhao Chen; Guangxiao Ma; Wenfeng Song; **Shuai Li**; Aimin Hao; Hong Qin
+</div>
+</div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AttriDiffuser: Adversarially enhanced diffusion model for text-to-facial attribute image synthesis](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4965105)
+Wenfeng Song; Zhongyong Ye; Meng Sun; Xia Hou; **Shuai Li**; Aimin Hao;
 </div>
 </div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
