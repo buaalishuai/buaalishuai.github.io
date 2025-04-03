@@ -71,6 +71,9 @@ Wenfeng Song; Xinyu Zhang; Yuting Guo; **Shuai Li**; Aimin Hao; Hong Qin;
 </div>
 </div>
 
+- [Joints-Centered Spatial-Temporal Features Fused Skeleton Convolution Network for Action Recognition](https://ieeexplore.ieee.org/abstract/document/10287687/), Wenfeng Song, Tangli Chu, Shuai Li, Nannan Li, Aimin Hao, Hong Qin, TMM
+
+- [CenterFormer: A Novel Cluster Center Enhanced Transformer for Unconstrained Dental Plaque Segmentation](https://ieeexplore.ieee.org/abstract/document/10598359/), Wenfeng Song, Xuan Wang, Yuting Guo, Shuai Li, Bin Xia, Aimin Hao, TMM
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
